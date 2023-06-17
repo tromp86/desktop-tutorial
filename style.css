@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap");
 
 * {
   margin: 0;
@@ -11,7 +11,7 @@ html {
 }
 body {
   text-shadow: 3px 3px 5px rgba(44, 43, 43, 0.982);
-  font-family: 'Press Start 2P', sans-serif;
+  font-family: "Press Start 2P", sans-serif;
   color: #fff;
   background-color: rgba(13, 14, 14, 0.926);
 }
@@ -122,4 +122,9 @@ h2 {
 
 .label-score {
   margin-bottom: 2rem;
+}
+
+.path{
+  font-size: 2rem;
+text-transform:uppercase;
 }
