@@ -1,6 +1,6 @@
 "use strict";
 const secretNumber = Math.floor(Math.random() * 20) + 1;
-let score = 20;
+let score = 10;
 
 const evenHendler = function () {
   const guessNumber = Number(document.querySelector(".number-input").value);
