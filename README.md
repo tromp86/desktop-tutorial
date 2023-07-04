@@ -1,7 +1,7 @@
 # Welcome to GitHub Desktop test project !
 
 All the most important types of GitHub code are used here.
-![Clicker The Game](avanew.jpg)
+![Clicker The Game](avanew.png)
 ## Usage
 Branching
 Create a new branch:
